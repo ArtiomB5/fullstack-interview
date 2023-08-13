@@ -1,1 +1,1 @@
-export {sum} from './ui/sum';
+export { sum } from './ui/sum';
